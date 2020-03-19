@@ -1,0 +1,1 @@
+"Quantifying the Search Engine Manipulation Effect" project built a pipeline to collect search engine result data and to conduct sentiment analysis to lay a basis to analyze potential search engine biases and their implication to our perception towards contentious issues.
